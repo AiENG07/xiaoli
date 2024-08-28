@@ -1,10 +1,3 @@
-'''
-Author: AdminTony
-Date: 2024-08-27 15:55:35
-LastEditTime: 2024-08-27 18:13:07
-LastEditors: AdminTony
-'''
-
 def banner():
     print('''
   __  __ _      ____  _       ____  _____ _  __ 

@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['xiaoli.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -10,7 +10,7 @@ a = Analysis(
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=[],
+    excludes=[],in
     noarchive=False,
     optimize=0,
 )
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='main',
+    name='xiaoli',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
